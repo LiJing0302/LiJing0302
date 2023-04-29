@@ -1,34 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
+- 🔭 I’m currently working on ByteDance
+- 🌱 My Daily Record:
+- 💬 Make friends  with me in wechat : LIJING9932
+- 📫 How to reach me: lijing9932@163.com
+- 😄 Pronouns: Learn if you don't know
+
+## My Repo 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiJing0302)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiJing0302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Committed to
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiJing0302)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+<!-- ## 📕 Committed to
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiJing0302&repo=LiJing0302)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
-
-
-
-
-## 📕 Top projects I've contributed to
-
-<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=prussian&hide_border=true&show_owner=true"></a>
-  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=prussian&hide_border=true&show_owner=true"></a>
-  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=prussian&hide_border=true&show_owner=true"></a>
-  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=prussian&hide_border=true&show_owner=true"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
-
-## 🛠️ My favorite tools
-
+## My tags
 ### 👨‍💻 Programming and markup languages
 
 <p>
@@ -42,14 +30,13 @@
 </p>
 
 ### 🧰 Frameworks and libraries
-<!--
-icon from https://shields.io/
--->
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-</p>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 ### 🗄️ Databases and cloud hosting
 
@@ -64,28 +51,15 @@ icon from https://shields.io/
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
 <!--
-**LiJing0302/LiJing0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+icon from https://shields.io/
+https://gist.github.com/rxaviers/7360908
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+badges from https://github.com/Ileriayo/markdown-badges
 -->
