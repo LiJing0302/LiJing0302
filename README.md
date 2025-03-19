@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ByteDance
 - 🌱 My Daily Record:
 - 💬 Make friends  with me in wechat : LIJING9932
 - 📫 How to reach me: lijing9932@163.com
